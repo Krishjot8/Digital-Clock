@@ -1,0 +1,22 @@
+*{
+
+    background-color: black;
+}
+
+
+
+
+#clock{
+
+    text-align: center;
+    margin-left:1.4em;
+    color: #ff0000;
+border: 12px solid gray;
+border-radius: 30px;
+width: 4em;
+
+height: 1.0em;
+padding-left: 1%;
+background-color: rgb(39, 37, 37);
+
+}
